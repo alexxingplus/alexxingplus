@@ -3,13 +3,17 @@
 I love making mobile apps, so I am slowly exploring iOS development universe 🪐
 
 ## My projects
-[**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) (\*_I'm currently working on it_\*) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each photo has its location.
+[**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) (\*_I'm currently working on it_\*) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each photo has its location. <br />
+_MVC, MapKit, CoreData, UIKit - layout in code, Bottom Sheet, Custom transitions_
 
-[**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project I had at Yandex workshop. I was working with a little amazing team. The app was written in like a week. It is a nice looking recipe app.
+[**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project I had at Yandex workshop. I was working with a little amazing team. The app was written in like a week. It is a nice looking recipe app. <br />
+_MVC, UIKit - layout in code, UserDefaults_
 
-[**🧑‍💻 Koder challenge**](https://github.com/alexxingplus/kodeChallenge) - an internship challenge from KODE. It was pretty interesting for me to build it.
+[**🧑‍💻 Koder challenge**](https://github.com/alexxingplus/kodeChallenge) - an internship challenge from KODE. It was pretty interesting for me to build it. <br />
+_MVC, UIKit - Interface Builder_
 
-**🎓 NNTU app** - my first project, an app for Nizhny Novgorod Technical University. It was written without any theoretical knowledge or any significant practical experience. Yet it has many useful features, such as navigation around university buildings or timetable. This project consists of an [iOS app](https://github.com/alexxingplus/nntuapp-ios), an [Android app](https://github.com/alexxingplus/nntuapp-android), [timetable web editor](https://github.com/alexxingplus/nntuapp.site), events web editor, [Node.js + SQLite backend](https://github.com/alexxingplus/nntuapp-backend). Despite the code quality, the app works well and it is used by more than 3000 students of the university. You can check it out in [App Store](https://vk.cc/az3s8e) or [Google Play](https://vk.cc/c5oUv9).
+**🎓 NNTU app** - my first project, an app for Nizhny Novgorod Technical University. It was written without any theoretical knowledge or any significant practical experience. Yet it has many useful features, such as navigation around university buildings or timetable. This project consists of an [iOS app](https://github.com/alexxingplus/nntuapp-ios), an [Android app](https://github.com/alexxingplus/nntuapp-android), [timetable web editor](https://github.com/alexxingplus/nntuapp.site), events web editor, [Node.js + SQLite backend](https://github.com/alexxingplus/nntuapp-backend). Despite the code quality, the app works well and it is used by more than 3000 students of the university. You can check it out in [App Store](https://vk.cc/az3s8e) or [Google Play](https://vk.cc/c5oUv9). <br />
+_UIKit - Interface Builder, CoreData, UserDefaults, EventKit, Alamofire, Swiftsoup_
 
 **🤖 Telegram bots** - I've made some telegram bots: some of them are private, [🐈 memes bot](https://github.com/alexxingplus/memes-tgbot) is public.
 
