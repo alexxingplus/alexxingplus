@@ -5,7 +5,7 @@ I love making mobile apps, so I am slowly exploring iOS development universe �
 ## My projects
 [**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) (\*_I'm currently working on it_\*) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each has its location.
 
-[**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project we had at Yandex workshop. It was written in like a week. A nice looking app with recepies.
+[**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project I had at Yandex workshop. I was working with a little amazing team. It was written in like a week. A nice looking app with recepies.
 
 [**🧑‍💻 Koder challenge**](https://github.com/alexxingplus/kodeChallenge) - an internship challenge from KODE. It was pretty interesting for me to build it.
 
