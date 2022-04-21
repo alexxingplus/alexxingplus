@@ -1,5 +1,5 @@
 ### Hi, I'm Alex 👋
-21 year-old student from Nizhny Novgorod, Russia.
+21 year-old student from Nizhny Novgorod, Russia. <br />
 I love making mobile apps, so I am slowly exploring iOS development universe 🪐
 
 ## My projects
