@@ -15,6 +15,8 @@ I love making mobile apps, so I am slowly exploring iOS development universe �
 
 Also I've had some experience with Java, C++ and Python at the university.
 
+Here's my [telegram](t.me/a_chizberg) if you want to reach me. 
+
 <!--
 **alexxingplus/alexxingplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
