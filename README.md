@@ -3,7 +3,7 @@
 I love making mobile apps, so I am slowly exploring iOS development universe 🪐
 
 ## My projects
-[**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) (\*_I'm currently working on it_\*) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each photo has its location. <br />
+[**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each photo has its location. <br />
 `MVC` `MapKit` `CoreData` `UIKit - layout in code` `Bottom Sheet` `Custom transitions`
 
 [**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project I had at Yandex workshop. I was working with a little amazing team. The app was written in like a week. It is a nice looking recipe app. <br />
