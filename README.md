@@ -1,5 +1,5 @@
 ### Hi, I'm Alex 👋
-22-year iOS Developer from Nizhny Novgorod
+22-year old iOS Developer from Nizhny Novgorod
 
 ## My projects
 [**📸 Camera Roll**](https://github.com/alexxingplus/PhotoPlenka) - an app that enables you to see how the places around you had been looking like years ago. It uses [PastVU API](https://github.com/PastVu/pastvu) - they have a database of more than 1.5 million photos taken from 1826 to 2000, each photo has its location. <br />
