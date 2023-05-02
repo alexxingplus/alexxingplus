@@ -8,9 +8,6 @@
 [**🐘 Ten Elephants**](https://github.com/TenElephants/TenElephantsMeals) - little iOS project I had at Yandex workshop. I was working with a little amazing team. The app was written in like a week. It is a nice looking recipe app. <br />
 `MVC` `UIKit - layout in code` `UserDefaults`
 
-[**🧑‍💻 Koder challenge**](https://github.com/alexxingplus/kodeChallenge) - an internship challenge from KODE. It was pretty interesting for me to build it. <br />
-`MVC` `UIKit - Interface Builder`
-
 **🎓 NNTU app** - my first project, an app for Nizhny Novgorod Technical University. It was written without any theoretical knowledge or any significant practical experience. Yet it has many useful features, such as navigation around university buildings or timetable. This project consists of an [iOS app](https://github.com/alexxingplus/nntuapp-ios), an [Android app](https://github.com/alexxingplus/nntuapp-android), [timetable web editor](https://github.com/alexxingplus/nntuapp.site), events web editor, [Node.js + SQLite backend](https://github.com/alexxingplus/nntuapp-backend). Despite the code quality, the app works well and it is used by more than 3000 students of the university. You can check it out in [App Store](https://vk.cc/az3s8e) or [Google Play](https://vk.cc/c5oUv9). <br />
 `UIKit - Interface Builder` `CoreData` `UserDefaults` `EventKit` `Alamofire` `Swiftsoup`
 
